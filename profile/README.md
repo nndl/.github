@@ -8,7 +8,7 @@
 |---|---|---|
 | [神经网络与深度学习（第 2 版）](https://nndl.ai/nndl-v2/) | [`nndl`](https://github.com/nndl/nndl) · `nndl-v2/` | 2026 即将出版 |
 | [神经网络与深度学习（通识版）](https://nndl.ai/nndl-ge/) | [`nndl`](https://github.com/nndl/nndl) · `nndl-ge/` | 2026 即将出版 |
-| [神经网络与深度学习：案例与实践](https://nndl.ai/nndl-practice/) | [`nndl-practice`](https://github.com/nndl/nndl-practice) | 2023 已出版 |
+| [神经网络与深度学习：案例与实践](https://nndl.ai/nndl-practice/) | [`nndl-practice`](https://github.com/nndl/nndl-practice) | 2026 即将出版 |
 | [大模型与智能体](https://nndl.ai/llm-agent/) | [`llm-beginner`](https://github.com/nndl/llm-beginner) | 2026 即将出版 |
 
 ## 从哪本开始？
